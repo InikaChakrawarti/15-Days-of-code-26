@@ -1,0 +1,34 @@
+segregate odd and even links que 328 leetcode->https://leetcode.com/problems/odd-even-linked-list/submissions/2004612985/
+leetcode que 509->https://leetcode.com/problems/fibonacci-number/submissions/2005190526/
+sort a linked list of 0s 1s and 2s 
+class Solution {
+  public:
+    Node* segregate(Node* head) {
+if(head==NULL||head->next==NULL)return head;
+int arr[3]={0};Node* temp=head;
+while(temp!=nullptr){
+   if(temp->data==0)arr[0]++; 
+       if(temp->data==1)arr[1]++; 
+   if(temp->data==2)arr[2]++; 
+
+temp=temp->next;
+
+}
+temp=head;
+for(int i=0;i<arr[0];i++){
+    temp->data=0;
+    temp=temp->next;
+}for(int i=0;i<arr[1];i++){
+    temp->data=1;
+    temp=temp->next;
+}for(int i=0;i<arr[2];i++){
+    temp->data=2;
+    temp=temp->next;
+}
+
+
+return head;
+
+        
+    }
+};
