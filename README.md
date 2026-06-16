@@ -6,8 +6,9 @@ DAY1:
 QUE 1 ->https://leetcode.com/problems/01-matrix/submissions/2033638448/
 QUE2->https://leetcode.com/problems/surrounded-regions/submissions/2033805830/
 que3->https://leetcode.com/problems/number-of-enclaves/submissions/2033849482/
-
-
+DAY2:
+QUES 1->https://leetcode.com/submissions/detail/2035131987/
+QUE2->https://leetcode.com/submissions/detail/2033889191/
 
 
 
