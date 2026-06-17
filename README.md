@@ -10,6 +10,8 @@ DAY2:
 QUES 1->https://leetcode.com/submissions/detail/2035131987/
 QUE2->https://leetcode.com/submissions/detail/2033889191/
 que3->https://leetcode.com/problems/course-schedule/submissions/2035254750/
+DAY3:
+QUES 1->https://leetcode.com/problems/set-matrix-zeroes/submissions/2036406496/
 
 
 
