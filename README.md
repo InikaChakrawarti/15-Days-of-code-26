@@ -13,6 +13,9 @@ que3->https://leetcode.com/problems/course-schedule/submissions/2035254750/
 DAY3:
 QUES 1->https://leetcode.com/problems/set-matrix-zeroes/submissions/2036406496/
 ques 2->https://leetcode.com/problems/rotate-image/submissions/2036430739/
+day4:
+ques1->https://leetcode.com/problems/path-with-minimum-effort/submissions/2038385495/
+ques 2->https://leetcode.com/submissions/detail/2037161591/
 
 
 
