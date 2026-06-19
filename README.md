@@ -16,7 +16,7 @@ ques 2->https://leetcode.com/problems/rotate-image/submissions/2036430739/
 day4:
 ques1->https://leetcode.com/problems/path-with-minimum-effort/submissions/2038385495/
 ques 2->https://leetcode.com/submissions/detail/2037161591/
-
+covered dijkstra algorithm
 
 
 
