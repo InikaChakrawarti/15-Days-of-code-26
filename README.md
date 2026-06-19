@@ -17,6 +17,8 @@ day4:
 ques1->https://leetcode.com/problems/path-with-minimum-effort/submissions/2038385495/
 ques 2->https://leetcode.com/submissions/detail/2037161591/
 covered dijkstra algorithm
+day 5:
+ques 1:https://leetcode.com/problems/cheapest-flights-within-k-stops/submissions/
 
 
 
