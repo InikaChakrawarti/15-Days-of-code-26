@@ -20,7 +20,8 @@ covered dijkstra algorithm
 day 5:
 ques 1:https://leetcode.com/problems/cheapest-flights-within-k-stops/submissions/
 ques 2->https://codeforces.com/contest/1696/submission/379662604
-
+day 6:
+ques 1->https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/submissions/2040947917/
 
 
 
