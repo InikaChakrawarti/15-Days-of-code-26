@@ -19,6 +19,7 @@ ques 2->https://leetcode.com/submissions/detail/2037161591/
 covered dijkstra algorithm
 day 5:
 ques 1:https://leetcode.com/problems/cheapest-flights-within-k-stops/submissions/
+ques 2->https://codeforces.com/contest/1696/submission/379662604
 
 
 
