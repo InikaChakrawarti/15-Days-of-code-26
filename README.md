@@ -24,6 +24,8 @@ day 6:
 ques 1->https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/submissions/2040947917/
 ques2->https://leetcode.com/problems/network-delay-time/submissions/2041047240/
 que 3->https://leetcode.com/submissions/detail/2041098810/
-
+day 7:
+que1->https://codeforces.com/contest/1883/submission/379758293
+que2->https://codeforces.com/contest/1883/submission/379758293
 
 
