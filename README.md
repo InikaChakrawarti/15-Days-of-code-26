@@ -27,6 +27,8 @@ que 3->https://leetcode.com/submissions/detail/2041098810/
 day 7:
 que1->https://codeforces.com/contest/1883/submission/379758293
 que2->https://codeforces.com/contest/1883/submission/379758293
-day8->https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/submissions/2041729889/
+day8->
+que1->https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/submissions/2041729889/
+que 2->https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/submissions/2043363171/
 
 
