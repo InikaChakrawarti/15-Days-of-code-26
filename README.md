@@ -30,5 +30,7 @@ que2->https://codeforces.com/contest/1883/submission/379758293
 day8->
 que1->https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/submissions/2041729889/
 que 2->https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/submissions/2043363171/
+day9->
+que1->https://leetcode.com/problems/spiral-matrix/submissions/2044028694/
 
 
