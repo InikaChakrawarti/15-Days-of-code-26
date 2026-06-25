@@ -33,5 +33,6 @@ que 2->https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-id
 day9->
 que1->https://leetcode.com/problems/spiral-matrix/submissions/2044028694/
 ques2->https://leetcode.com/problems/min-cost-to-connect-all-points/submissions/2045238981/
+que3->https://leetcode.com/problems/number-of-provinces/submissions/2045428095/
 
 
