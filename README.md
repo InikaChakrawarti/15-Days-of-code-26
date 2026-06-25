@@ -32,5 +32,6 @@ que1->https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-ne
 que 2->https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/submissions/2043363171/
 day9->
 que1->https://leetcode.com/problems/spiral-matrix/submissions/2044028694/
+ques2->https://leetcode.com/problems/min-cost-to-connect-all-points/submissions/2045238981/
 
 
