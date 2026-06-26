@@ -37,4 +37,5 @@ que3->https://leetcode.com/problems/number-of-provinces/submissions/2045428095/
 day10
 que1->https://leetcode.com/problems/number-of-operations-to-make-network-connected/submissions/2045721749/
 que2->https://leetcode.com/problems/accounts-merge/submissions/2046371142/
-
+day 11
+que 1->https://leetcode.com/problems/redundant-connection/submissions/2046427680/
