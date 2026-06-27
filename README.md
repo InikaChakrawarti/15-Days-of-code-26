@@ -40,6 +40,8 @@ que2->https://leetcode.com/problems/accounts-merge/submissions/2046371142/
 day 11
 que 1->https://leetcode.com/problems/redundant-connection/submissions/2046427680/
 que 2 kruskal ->https://leetcode.com/problems/min-cost-to-connect-all-points/submissions/2046454981/
+que3->https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/submissions/2047535396/
 day12->
-que1->https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/submissions/2047535396/
+
 que2->https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2047553367/
+que 1->https://leetcode.com/problems/max-consecutive-ones-iii/submissions/2047781528/
