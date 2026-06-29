@@ -48,3 +48,4 @@ que 1->https://leetcode.com/problems/max-consecutive-ones-iii/submissions/204778
 que 3->https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/submissions/2047908224/
 day13->
 que1->https://leetcode.com/problems/fruit-into-baskets/submissions/2048577582
+que2->https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/submissions/2048637075/
