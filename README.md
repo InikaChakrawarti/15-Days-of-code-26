@@ -50,3 +50,5 @@ day13->
 que1->https://leetcode.com/problems/fruit-into-baskets/submissions/2048577582
 que2->https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/submissions/2048637075/
 que3->https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/submissions/2049495864/
+day14->
+que1->https://leetcode.com/problems/ransom-note/submissions/2049509271/
