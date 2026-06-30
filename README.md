@@ -52,3 +52,4 @@ que2->https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-
 que3->https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/submissions/2049495864/
 day14->
 que1->https://leetcode.com/problems/ransom-note/submissions/2049509271/
+que2->https://leetcode.com/problems/linked-list-cycle/submissions/2051237101/
