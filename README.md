@@ -56,3 +56,4 @@ que2->https://leetcode.com/problems/linked-list-cycle/submissions/2051237101/
 que3->https://leetcode.com/problems/linked-list-cycle-ii/submissions/2051263561/
 Day15->
 que1->https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/2051875653/
+que2->https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair/submissions/2052310127/
