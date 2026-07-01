@@ -55,4 +55,4 @@ que1->https://leetcode.com/problems/ransom-note/submissions/2049509271/
 que2->https://leetcode.com/problems/linked-list-cycle/submissions/2051237101/
 que3->https://leetcode.com/problems/linked-list-cycle-ii/submissions/2051263561/
 Day15->
-que 1->https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/2051293134/
+que1->https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/2051875653/
